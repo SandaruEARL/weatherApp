@@ -22,3 +22,16 @@ WeatherApp is a Flutter-based mobile application developed as a university proje
       > OpenWeather API: For accessing real-time and forecast weather data.
       
       > Dart Programming Language: To implement robust and efficient app logic.
+
+#### Visuals
+
+Below are some screenshots and design mockups of the app's interface:
+
+1. **home**
+   - Displays current weather conditions.
+   ![Home](assets/home.png)
+
+2. **history**
+   - User interface for searching weather in different cities.
+   ![history](assets/history.png)
+
