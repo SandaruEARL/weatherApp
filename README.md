@@ -29,9 +29,9 @@ Below are some screenshots and design mockups of the app's interface:
 
 1. **home**
    - Displays current weather conditions.
-   ![Home](assets/home.png)
+   <img src="assets/screenshots/home.png" alt="Home Screen" width="500">
 
 2. **history**
    - User interface for searching weather in different cities.
-   ![history](assets/history.png)
+  <img src="assets/screenshots/history.png" alt="Home Screen" width="500">
 
